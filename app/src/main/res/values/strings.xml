@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="robiya_text">Robiya</string>
+    <string name="number_text">TextView</string>
+<!--    <string name="button">Button</string>-->
+    <string name="roll">Roll</string>
+    <string name="image">TODO</string>
+</resources>
